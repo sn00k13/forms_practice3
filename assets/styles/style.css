@@ -24,6 +24,12 @@ body {
     color: white;
 }
 .captcha-box {
-    
+    background-color: white;
+    height: 40px;
+    width: 150px;
+}
+table{
+    width: 100%;
+    border-spacing: 20px;
 }
 
